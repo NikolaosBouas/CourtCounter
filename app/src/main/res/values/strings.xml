@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Court Counter</string>
+    <string name="action_settings">Settings</string>
+    <string name="free_trhow">FREE THROW</string>
+    <string name="plus_two">+2 Points</string>
+    <string name="plus_three">+3 Points</string>
+    <string name="team_b">Team B</string>
+    <string name="team_a">Team A</string>
+    <string name="reset">Reset</string>
+    <string name="period">Period</string>
+    <string name="team_b_fouls">Team B Fouls: </string>
+    <string name="team_a_fouls">Team A Fouls: </string>
+    <string name="foul">Foul</string>
+    <string name="b_has_free_throw">Team B has two free throws</string>
+    <string name="a_has_free_throw">Team A has two free throws</string>
+    <string name="next_period">Next Period</string>
+</resources>

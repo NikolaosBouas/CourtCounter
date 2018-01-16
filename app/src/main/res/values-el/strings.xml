@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Court Counter</string>
+    <string name="foul">Φάουλ</string>
+    <string name="free_trhow">ΒΟΛΗ</string>
+    <string name="next_period">Επόμενη Περίοδος</string>
+    <string name="period">Περίοδος</string>
+    <string name="plus_three">+3 Πόντοι</string>
+    <string name="plus_two">+2 Πόντοι</string>
+    <string name="reset">Επανεκκίνηση</string>
+    <string name="team_a">Ομάδα Α</string>
+    <string name="team_b">Ομάδα Β</string>
+    <string name="team_a_fouls">"Ομαδικά Φάουλ της Α: "</string>
+    <string name="team_b_fouls">"Ομαδικά Φάουλ της Β: "</string>
+    <string name="a_has_free_throw">Η ομάδα Α έχει δύο βολές</string>
+    <string name="b_has_free_throw">Η ομάδα Β έχει δύο βολές</string>
+</resources>
